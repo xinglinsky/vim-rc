@@ -1,0 +1,4 @@
+vim80/
+vimfiles/bundle/
+vimfiles/plugin/
+*.swp
